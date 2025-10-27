@@ -1,0 +1,34 @@
+{
+    // Dear Developers , Mr.Manager for E-comOS user's safe , must ask some question of your apps
+    // This file was created by the software source administrator Ladin S. Ding. Do not update or modify it unless part of this file does not conform to the actual situation of your software.
+    [name]:[rui-app-calculator]
+    [version_and_build_version]:[0.0.1]
+    [certificate issuing authority]:[E-comOS CIA Team Manager Group]
+    [certificate issuance date]:[2025-10-25 7:49 P.M.]
+    [development]:[E-comOS User Mode Team RUI Group]
+    [valid until]:[2030-10-25 7:49 P.M.]
+    // Here is robot to write
+    [ROBOT]{
+        ONE Ladin S. Ding
+        TWO SOFTWARE_REPO_BOT
+        TRHEE Mr.Manager
+    }
+    [verified]:[verified]
+    // You cannot modify the following information, otherwise your certificate will immediately become [Unverified] and EPM will not be able to install your software safely.
+    // Your user will get a screen:
+    // "xxx is a UNVERIFIED package , you can choose a option to continue
+    // " 1) STOP TO INSTALL THIS PACKAGE(S)
+    // " 2) STOP TO INSTALL THIS PACKAGE(S) AND SEARCH A alternative packages
+    // " 3) CONTINUE to install
+    // "Please enter the serial number 1~3 to select (default 2)"
+    // So , please DO NOT edit the following content
+    "validation_info"{
+        [verified]:[verified]
+        [verification_date]:[2025-10-25 7:50 P.M.]
+        [verifier]:[E-comOS CIA Team Manager Group]
+        [signature]:[AA~01]
+        [release_code]:[00000001]
+        [bot]:[Ladin S. Ding]
+    }
+    // END OF THE CODE FILE , DO NOT ADD MORE CODE UDER HERE.
+}

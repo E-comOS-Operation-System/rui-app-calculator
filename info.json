@@ -1,0 +1,17 @@
+{
+    "name": "rui-app-calculator",
+    "version": "0.0.1",
+    "release_date": "Oct 25,2025",
+    "build_date": "Oct 25,2025",
+    "publisher": "E-comOS User Mode Team RUI Group",
+    "is it verified?": "yes",
+    "author": "E-comOS User Mode Team RUI Group",
+    "run_on": "x86, x64, ARM, ARM64",
+    "description": "The calculator for RUI",
+    "license": "Apache-2.0",
+    "use_packages(If not used other packages, please write NOTHING)": "NOTHING",
+    "dependencies(If not dependent on other apps, please write No)": "No",
+    "contact": {
+        "email": "rui_mail@saladin510-orangeyouhome-erath.online"
+    }
+}
